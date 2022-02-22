@@ -13,7 +13,7 @@ Este projeto consiste em um aplicativo que mostra informações sobre Pokémons.
 - Internacionalização
 - Consumo de API
 - Gerenciamento de Estados
-- Modularização
+- MobX, Flutter Modular, Dio
 - etc
 
 ## Como testar

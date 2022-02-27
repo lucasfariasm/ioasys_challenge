@@ -4,7 +4,7 @@
 
 ## Sobre
 
-Este projeto consiste em um aplicativo que mostra informações sobre Pokémons. É consumida a api "https://pokeapi.co/", que trás as informações necessárias.
+Este projeto consiste em um aplicativo que mostra informações sobre Pokémons. É consumida a api "https://pokeapi.co/", que traz as informações necessárias.
 
 ## Tecnologias aplicadas
 
